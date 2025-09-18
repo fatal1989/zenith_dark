@@ -1,1 +1,1 @@
-# zenith_dark
+Zenith Dark Theme for Home Assistant ✨
